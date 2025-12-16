@@ -11,6 +11,11 @@ Das Radar kann über einen **Taster** gestartet und gestoppt werden.
 
 ---
 
+## Ansicht
+![Radar Ansicht](view.png)
+
+---
+
 ## Features
 
 - Servo-Sweep von 0–180°
